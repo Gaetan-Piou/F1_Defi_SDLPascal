@@ -1,5 +1,5 @@
 program Programme;
-{$UNITPATH ..\SDL2}
+{$UNITPATH \SDL2}
 //BUT: Affiche un sprite d'helicoptere anime a la position de la souris, ainsi qu'une image bitmap
 //ENTREE: La position de la souris et la touche échap
 //SORTIE: La position de l'helicoptere
