@@ -1,0 +1,10 @@
+#Commentaire - Fichier gitignore
+*.exe
+*.o
+*.$$$
+*.dir
+*.err
+*.out
+*.bak
+*.cfg
+*.ini
